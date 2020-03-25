@@ -2,6 +2,8 @@
 
 This is the site at [helpisavailable.org.uk](helpisavailable.org.uk).
 
+![preview of the site](images/preview.png)
+
 ## Developers
 
 To modify this site:
