@@ -1,0 +1,98 @@
+.container {
+	max-width: 80.0rem;
+	padding-bottom: 7.5rem;
+	padding-top: 7.5rem;
+}
+
+.emergency-banner {
+	background-color:  #AD2121;
+	color: white;
+	text-align: center;
+	font-size: 24px;
+	padding:20px;
+}
+
+#home {
+	background: #f4f5f6;
+	min-width: 100vw;
+}
+
+.hero {
+	left: 50%;
+	position: absolute;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+div.row {
+	margin-bottom: 10px;
+}
+
+.volunteering-cell {
+	border-radius: 8px;
+	overflow: hidden;
+	padding: 0px;
+	border: solid 1px grey;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: 100%;
+}
+
+.volunteering-cell.green { border-color: #21AD21; }
+.volunteering-cell.red { border-color: #AD2121; }
+.volunteering-cell.cyan { border-color: #21ADAD; }
+.volunteering-cell.orange { border-color: #AD6621; }
+
+div.first {
+	text-align: center;
+	font-size: 24px;
+}
+
+div.second {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+div.first,div.second {
+	padding: 20px;
+}
+
+.button { width: 100%; text-align: left; }
+.button.red { background-color: #AD2121; border-color: #AD2121; }
+.button.green { background-color: #21AD21; border-color: #21AD21; }
+.button.cyan { background-color: #21ADAD; border-color: #21ADAD; }
+.button.orange { background-color: #AD6621; border-color: #AD6621; }
+
+.volunteering-cell.green div.first {
+	background-color:  #21AD21;
+	color: white;
+}
+.volunteering-cell.green div.second {
+	background-color:  white;
+	color: #21AD21;
+}
+.volunteering-cell.red div.first {
+	background-color:  #AD2121;
+	color: white;
+}
+.volunteering-cell.red div.second {
+	background-color:  white;
+	color: #AD2121;
+}
+.volunteering-cell.cyan div.first {
+	background-color:  #21ADAD;
+	color: white;
+}
+.volunteering-cell.cyan div.second {
+	background-color:  white;
+	color: #21ADAD;
+}
+.volunteering-cell.orange div.first {
+	background-color:  #AD6621;
+	color: white;
+}
+.volunteering-cell.orange div.second {
+	background-color:  white;
+	color: #AD6621;
+}
