@@ -1,6 +1,6 @@
 # help-is-available
 
-This is the site at [helpisavailable.org.uk](helpisavailable.org.uk).
+This is the site at: [helpisavailable.org.uk](https://helpisavailable.org.uk)
 
 ![preview of the site](images/preview.png)
 
