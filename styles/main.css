@@ -25,6 +25,13 @@
 	text-align: center;
 }
 
+.row {
+	margin-bottom: 10px;
+}
+.column {
+	margin-bottom: 10px;
+}
+
 .volunteering-cell {
 	border-radius: 8px;
 	overflow: hidden;
