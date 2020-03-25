@@ -5,7 +5,7 @@
 }
 
 .emergency-banner {
-	background-color:  #AD2121;
+	background-color:  #21216D;
 	color: white;
 	text-align: center;
 	font-size: 24px;
@@ -25,7 +25,7 @@
 	text-align: center;
 }
 
-div.row {
+div.column {
 	margin-bottom: 10px;
 }
 
