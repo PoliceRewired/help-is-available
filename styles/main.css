@@ -5,7 +5,7 @@
 }
 
 .emergency-banner {
-	background-color:  #21216D;
+	background-color:  rgb(72, 72, 160);
 	color: white;
 	text-align: center;
 	font-size: 24px;
@@ -25,10 +25,6 @@
 	text-align: center;
 }
 
-div.column {
-	margin-bottom: 10px;
-}
-
 .volunteering-cell {
 	border-radius: 8px;
 	overflow: hidden;
@@ -36,6 +32,7 @@ div.column {
 	border: solid 1px grey;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	height: 100%;
+	margin-bottom: 10px;
 }
 
 .volunteering-cell.green { border-color: #21AD21; }
