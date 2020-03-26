@@ -21,7 +21,7 @@ Under OS X, to serve the site to yourself, you can use:
 python -m SimpleHTTPServer 8000
 ```
 
-If you have Anaconda Python installed, instead use:
+If you have Python 3 installed, instead use:
 
 ```
 python3 -m http.server 8000
