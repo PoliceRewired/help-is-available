@@ -66,7 +66,7 @@ See: [configuring a remote for a fork](https://help.github.com/en/github/collabo
   ```
 * Add ours as an extra remote called `upstream` with:
   ```bash
-  git remote add upstream https://github.com/policerewired/cvth-groups-map.git
+  git remote add upstream https://github.com/policerewired/help-is-available.git
   ```
 
 To sync, you'll first _fetch_ the upstream remote, and then merge it into your own repository by branch.
