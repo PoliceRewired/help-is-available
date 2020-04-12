@@ -54,6 +54,7 @@
 .volunteering-cell.red { border-color: #AD2121; }
 .volunteering-cell.cyan { border-color: #21ADAD; }
 .volunteering-cell.orange { border-color: #AD6621; }
+.volunteering-cell.purple { border-color: #862d86; }
 
 div.first {
 	text-align: center;
@@ -75,6 +76,7 @@ div.first,div.second {
 .button.green { background-color: #21AD21; border-color: #21AD21; }
 .button.cyan { background-color: #21ADAD; border-color: #21ADAD; }
 .button.orange { background-color: #AD6621; border-color: #AD6621; }
+.button.purple { background-color: #862d86; border-color: #862d86; }
 
 .volunteering-cell.green div.first {
 	background-color:  #21AD21;
@@ -107,4 +109,12 @@ div.first,div.second {
 .volunteering-cell.orange div.second {
 	background-color:  white;
 	color: #AD6621;
+}
+.volunteering-cell.purple div.first {
+	background-color:  #862d86;
+	color: white;
+}
+.volunteering-cell.purple div.second {
+	background-color:  white;
+	color: #862d86;
 }
