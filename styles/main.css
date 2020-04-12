@@ -118,3 +118,5 @@ div.first,div.second {
 	background-color:  white;
 	color: #862d86;
 }
+
+.stackable-links a { display: inline-block }
